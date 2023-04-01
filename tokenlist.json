@@ -1,25 +1,30 @@
-{
-  "name": "Scroll",
-  "logoURI": "https://scroll-io.netlify.app/imgs/home/logo.png",
-  "keywords": [
-    "scaling",
-    "layer2",
-    "infrastructure"
-  ],
-  "timestamp": "2023-04-01T01:41:47.449Z",
-  "tokens": [
-    {
-      "chainId": 534353,
-      "address": "0x67aE69Fd63b4fc8809ADc224A9b82Be976039509",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://scroll.io/imgs/token/usd-coin.png"
+[
+  {
+    "name": "Scroll Whitelist Era",
+    "timestamp": "2022-03-01T22:44:18.339Z",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
     },
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
+    "tokens": [
+      {
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
+        "chainId": 534353,
+        "address": "0xa1EA0B2354F5A344110af2b6AD68e75545009a03",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      {
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png",
+        "chainId": 534353,
+        "address": "0xA0D71B9877f44C744546D649147E3F1e70a93760",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18
+      }
+    ],
+    "logoURI": "ipfs://"
   }
-}
+]
