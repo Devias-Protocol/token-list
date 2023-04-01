@@ -1,0 +1,25 @@
+{
+  "name": "Scroll",
+  "logoURI": "https://scroll-io.netlify.app/imgs/home/logo.png",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2023-04-01T01:41:47.449Z",
+  "tokens": [
+    {
+      "chainId": 534353,
+      "address": "",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://scroll.io/imgs/token/usd-coin.png"
+    },
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
